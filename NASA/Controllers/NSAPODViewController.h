@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  NSAPODViewController.h
 //  NASA
 //
 //  Created by Ahmad on 6/11/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface NSAPODViewController : UIViewController <NSURLSessionDownloadDelegate>
 
 @end
-

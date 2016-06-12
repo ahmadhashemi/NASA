@@ -1,6 +1,8 @@
 # NASA
 An iOS application to work with Nasa's open APIs.
 
+![alt tag](http://ahmadhashemi.com/nasa/banner.png)
+
 Included APIs:
 * APOD
 * Sound
